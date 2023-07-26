@@ -3,8 +3,7 @@ import logoLetter from '../../../assets/images/A C.png'
 import { useRef } from 'react' 
 import { useEffect } from 'react';
 import { gsap } from 'gsap-trial';
-// import { DrawSVGPlugin } from 'gsap-trial/DrawSVGPlugin';
-import { DrawSVGPlugin } from 'https://assets.codepen.io/16327/DrawSVGPlugin3.min.js';
+import { DrawSVGPlugin } from 'gsap-trial/DrawSVGPlugin'; 
 
 
 
